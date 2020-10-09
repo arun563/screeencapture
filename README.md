@@ -27,4 +27,4 @@ $.ajax({
 <button type="submit" class="ss-ml-0 ss-bg-green ss-ptb-10 ss-plr-20" onclick="screenshot();">Click to Capture </button>
 
 That's all!
-Have fun!!!!!!!
+Have fun!!!
